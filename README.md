@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👯 I’m looking to collaborate on **web development**
-
 - 👨‍💻 All of my projects are available at [https://viswachaitanyasai.github.io/viswa/](https://viswachaitanyasai.github.io/viswa/)
 
 - 📫 How to reach me **viswachaitanya444@gmail.com**
