@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm viswa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-# <h1>💫 About Me:</h1>
+<h1>💫 About Me:</h1>
 🔭 I’m currently working on web development<br>🌱 I’m currently learning DSA
 
 
