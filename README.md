@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm viswa</h1>
-<img src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img style="width:40rem" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <h3 align="center">A passionate web developer from India</h3>
 💫 About Me:
 🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning full stack web development
