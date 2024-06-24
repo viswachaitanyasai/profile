@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Viswa....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 <img align="center" src="images/header.png">
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate web & AI developer from India 🇮🇳
 <h2 align="center">🌐 Social 🌐</h2>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/viswa-chaitanya/" title="LinkedIn Profile"><img width="22" src="https://skillicons.dev/icons?i=linkedin"> LinkedIn</a></code>
